@@ -1,1 +1,1 @@
-bhbgg
+This repository contains the data, code, and output related to the thesis project - Multi-omics Data Analysis. The Minor_thesis.py script is the primary Python code used for this study. The code is modular, well-commented, and uses clear variable names to facilitate understanding and modifications by other researchers.
